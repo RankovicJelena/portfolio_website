@@ -1,0 +1,14 @@
+{
+  "name": "Portfolio_Website",
+  "version": "1.0.0",
+  "description": "Jecin Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Jelena Rankovic",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
